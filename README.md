@@ -7,7 +7,6 @@
 * holyC
 * create holyRust
 * AI
-* ftp server
 * e-mail server
 * irc server
 * keyboard synthetizator
