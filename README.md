@@ -10,6 +10,7 @@
 * ftp server
 * e-mail server
 * irc server
+* keyboard synthetizator
 * /g/ challenges
 
 ![](https://raw.githubusercontent.com/4rt3xp0/todo/main/challenges.png)
